@@ -6,6 +6,7 @@ var config = {
         "送给我",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "亲爱的妈妈",  // 同上...
         "今天是你的生日",
+         "祝你生日快乐",   
 
     ],
     /**
@@ -25,7 +26,7 @@ var config = {
     desc: {
         turn_on: "开始",
         play: "来一首歌吧",
-        bannar_coming: "颜色",
+        bannar_coming: "横幅来了",
         balloons_flying: "好像少点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
